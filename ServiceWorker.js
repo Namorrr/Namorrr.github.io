@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Clever For Mami-0.1";
 const contentToCache = [
-    "Build/CFMWebGLBuildNoneV2.loader.js",
-    "Build/CFMWebGLBuildNoneV2.framework.js",
-    "Build/CFMWebGLBuildNoneV2.data",
-    "Build/CFMWebGLBuildNoneV2.wasm",
+    "Build/CFMWebGLBuildNoneV3.loader.js",
+    "Build/CFMWebGLBuildNoneV3.framework.js",
+    "Build/CFMWebGLBuildNoneV3.data",
+    "Build/CFMWebGLBuildNoneV3.wasm",
     "TemplateData/style.css"
 
 ];
